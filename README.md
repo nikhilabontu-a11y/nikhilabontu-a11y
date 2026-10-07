@@ -9,7 +9,7 @@ I am an **Electronics and Communication Engineering** student at SRKR Engineerin
 
 **Electronics & Hardware (Core Studies)**
 - **Concepts:** Digital Logic Design, Circuit Analysis, Embedded Systems.
-- **Tools:** Exposure to Verilog & VHDL via lab coursework.
+- **Tools:** Exposure to Verilog via lab coursework.
 - **Professional:** Member of IETE (The Institution of Electronics and Telecommunication Engineers).
 
 **Data Science & Programming**
